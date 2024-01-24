@@ -2,14 +2,8 @@
 👨‍⚖️UM ARQUIVO EXECUTÁVEL (.EXE) É UM ARQUIVO QUE CONTÉM INSTRUÇÕES EM LINGUAGEM DE MÁQUINA (CÓDIGO BINÁRIO) QUE PODEM SER EXECUTADAS DIRETAMENTE POR UM COMPUTADOR. É COMUMENTE USADO PARA INICIAR UM PROGRAMA OU APLICATIVO PARA DESKTOP.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=EXECUTAVEL) <br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-PYINSTALLER-03A9F4?logo=google)](https://pyinstaller.readthedocs.io/en/stable/index.html)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-GCC-03A9F4?logo=google)](https://gcc.gnu.org/onlinedocs/)  <br>
-
-<img src="https://cdn-icons-png.flaticon.com/512/8124/8124463.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 ## VISÃO GERAL:
