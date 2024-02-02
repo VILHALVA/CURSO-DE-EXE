@@ -1,12 +1,9 @@
 # CURSO DE EXE
 👨‍⚖️UM ARQUIVO EXECUTÁVEL (.EXE) É UM ARQUIVO QUE CONTÉM INSTRUÇÕES EM LINGUAGEM DE MÁQUINA (CÓDIGO BINÁRIO) QUE PODEM SER EXECUTADAS DIRETAMENTE POR UM COMPUTADOR. É COMUMENTE USADO PARA INICIAR UM PROGRAMA OU APLICATIVO PARA DESKTOP.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-PYINSTALLER-03A9F4?logo=google)](https://pyinstaller.readthedocs.io/en/stable/index.html)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-GCC-03A9F4?logo=google)](https://gcc.gnu.org/onlinedocs/)  <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
-## VISÃO GERAL:
+## CONCEITO:
 Um executável, muitas vezes referido como um "arquivo executável" ou "binário executável", é um arquivo que contém um programa pronto para ser executado ou "executado" em um computador. Este arquivo é geralmente formado por instruções de código de máquina específicas para a arquitetura do processador alvo.
 
 Vamos desdobrar o conceito:
@@ -35,7 +32,7 @@ Exemplos de arquivos executáveis incluem:
 
 Ter um executável facilita a distribuição de software, pois os usuários finais podem executar o programa sem precisar do código fonte ou do ambiente de desenvolvimento instalado.
 
-## O PROCESSO:
+## PROCESSO:
 Vamos abordar alguns aspectos gerais desse processo.
 
 1. **Escolha da Linguagem:**
@@ -91,3 +88,8 @@ pyinstaller --onefile app.py
 Este exemplo usa o PyQt para criar uma interface gráfica simples. O PyInstaller é usado para empacotar o aplicativo em um único arquivo executável.
 
 Lembre-se de que os detalhes específicos podem variar com base na linguagem escolhida e nas ferramentas utilizadas. 
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO DO PYINSTALLER](https://pyinstaller.readthedocs.io/en/stable/index.html)
+- [VEJA A DOCUMENTAÇÃO DO GCC](https://gcc.gnu.org/onlinedocs/)
