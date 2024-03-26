@@ -37,3 +37,4 @@ Ter um executável facilita a distribuição de software, pois os usuários fina
 - [VEJA A DOCUMENTAÇÃO DO PYINSTALLER](https://pyinstaller.readthedocs.io/en/stable/index.html)
 - [VEJA A DOCUMENTAÇÃO DO GCC](https://gcc.gnu.org/onlinedocs/)
 - [VEJA O PROCESSO](./PROCESSO.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:EXE)
